@@ -1,0 +1,17 @@
+**Basic game mechanics**
+- Make the camera follow steve
+- have the camera stick to the edge of the plane
+- add invisible walls so steve is trapped
+
+**Bigger Stories**
+- Farming
+	- Animals
+	- Plants
+- Character Stats
+- Scavenging in the wastes text story
+- Environment
+	- Multiple scenes
+- Other Characters
+	- Dog
+- Art
+	- Animation
